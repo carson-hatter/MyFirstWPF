@@ -1,0 +1,16 @@
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.exe.config
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.exe
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.pdb
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csprojResolveAssemblyReference.cache
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MainWindow.baml
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MainWindow.g.cs
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\App.g.cs
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF_MarkupCompile.cache
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.g.resources
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.Properties.Resources.resources
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csproj.GenerateResource.Cache
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.exe
+c:\users\carson\documents\visual studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.pdb
+C:\Users\Carson\Documents\Visual Studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\TablePage.baml
+C:\Users\Carson\Documents\Visual Studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\App.baml
+C:\Users\Carson\Documents\Visual Studio 2013\Projects\MyFirstWPF\MyFirstWPF\obj\Debug\TablePage.g.cs

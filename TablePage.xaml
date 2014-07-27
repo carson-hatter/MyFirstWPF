@@ -1,0 +1,63 @@
+﻿<Page x:Class="MyFirstWPF.TablePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+	Title="TablePage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Column="0">
+            <Button 
+                Click="newEntry" 
+                Content="New Entry"  
+                Style="{StaticResource tableButtonStyle}"
+                />
+            <Button 
+                Click="reviseEntry" 
+                Content="Revise Entry" 
+                Style="{StaticResource tableButtonStyle}"
+                />
+        <Button 
+                Click="deleteEntry" 
+                Content="Delete Entry" 
+                Style="{StaticResource tableButtonStyle}"
+                />
+
+    </StackPanel>
+        
+        <Button 
+            Click="quitProgram" 
+            Content="Quit" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Bottom"
+            Grid.Column="0"
+            Height="75"
+            MinWidth="125"
+            FontSize="24"
+            Margin="10"
+            />
+        
+    <FlowDocumentReader>
+            <FlowDocument>
+                <Table>
+                    <Table.Columns>
+                        <TableColumn />
+                        <TableColumn />
+                        <TableColumn />
+                    </Table.Columns>
+            
+                    <TableRowGroup>
+
+                    </TableRowGroup>
+                </Table>
+            </FlowDocument>
+        </FlowDocumentReader>
+    </Grid>
+</Page>

@@ -1,0 +1,12 @@
+﻿<NavigationWindow x:Class="MyFirstWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="720" Width="1280" Source="TablePage.xaml">
+    <!--<Grid>-->
+        <!--<TextBlock FontSize="36" >
+                My first WPF app
+        </TextBlock>
+
+        <Button FontSize="18" Content="Start" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="25,10" Click="buttonClick"/>--><!--
+    </Grid>-->
+</NavigationWindow>
